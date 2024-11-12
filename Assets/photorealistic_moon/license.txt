@@ -1,0 +1,11 @@
+Model Information:
+* title:	Photorealistic Moon
+* source:	https://sketchfab.com/3d-models/photorealistic-moon-060795963d43499f96dbf88f3ec1da89
+* author:	freddy1231 (https://sketchfab.com/freddy1231)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Photorealistic Moon" (https://sketchfab.com/3d-models/photorealistic-moon-060795963d43499f96dbf88f3ec1da89) by freddy1231 (https://sketchfab.com/freddy1231) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
